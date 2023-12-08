@@ -16,5 +16,4 @@ streamlit run app.py
 In app.py you can modify your details
 In style floders you change the button colors
 In images folders you can modify the images
-In .streamlit folder you can change the background color and text fonts
 
